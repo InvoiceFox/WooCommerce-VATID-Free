@@ -13,6 +13,13 @@ A simple WordPress plugin that adds a VAT Number field to WooCommerce checkout (
 
 ## Installation
 
+### Method 1: Direct Upload
+1. Download the ZIP file directly from GitHub
+2. Go to WordPress admin → Plugins → Add New → Upload Plugin
+3. Upload the ZIP file and click "Install Now"
+4. Activate the plugin
+
+### Method 2: Manual Upload
 1. Download the plugin files
 2. Upload to `/wp-content/plugins/woocommerce-vatid-free/` directory
 3. Activate the plugin through the WordPress admin 'Plugins' menu
